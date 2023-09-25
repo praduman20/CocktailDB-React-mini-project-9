@@ -1,5 +1,5 @@
-# React mini project 8 - React Router App
-"React Router App: A React application that leverages React Router for seamless navigation between Home, About Us, and Contact Us pages, providing a structured user experience."
+# React mini project 9 - CocktailDB
+React CocktailDB App: Discover and search cocktails with this React-based application. View cocktail cards which have image, name, and glassware for each cocktail. Dive deeper with detailed information on ingredients and glass type by clicking the 'Details' button. Concepts used - API fetch and data display , Context API , Hooks used - (useContext , useState , useEffect , useRef , useCallback) , react-router-dom.
 
 ## Demo Link - https://serve-me-cocktails.netlify.app/
 
