@@ -24,5 +24,5 @@ To Visit App: http://localhost:3000
 
 This repository is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use the code for personal or commercial purposes.
 
-Happy coding!
+Happy coding :)
 
