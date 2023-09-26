@@ -1,7 +1,7 @@
 # React mini project 9 - CocktailDB
 React CocktailDB App: Discover and search cocktails with this React-based application. View cocktail cards which have image, name, and glassware for each cocktail. Dive deeper with detailed information on ingredients and glass type by clicking the 'Details' button. Concepts used - API fetch and data display , Context API , Hooks used - (useContext , useState , useEffect , useRef , useCallback) , react-router-dom.
 
-## Demo Link - https://your-shopping-bag.netlify.app/
+## Demo Link - https://serve-me-cocktails.netlify.app/
 
 ## Screenshots -
 
